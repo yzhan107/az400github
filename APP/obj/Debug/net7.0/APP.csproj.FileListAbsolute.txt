@@ -1,0 +1,15 @@
+C:\Rebecca\Training\AZ400\az400github\APP\bin\Debug\net7.0\APP.exe
+c:\Rebecca\Training\AZ400\az400github\APP\bin\Debug\net7.0\APP.deps.json
+c:\Rebecca\Training\AZ400\az400github\APP\bin\Debug\net7.0\APP.runtimeconfig.json
+C:\Rebecca\Training\AZ400\az400github\APP\bin\Debug\net7.0\APP.dll
+C:\Rebecca\Training\AZ400\az400github\APP\bin\Debug\net7.0\APP.pdb
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.csproj.AssemblyReference.cache
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.AssemblyInfoInputs.cache
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.AssemblyInfo.cs
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.csproj.CoreCompileInputs.cache
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.dll
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\refint\APP.dll
+C:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.pdb
+c:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\APP.genruntimeconfig.cache
+c:\Rebecca\Training\AZ400\az400github\APP\obj\Debug\net7.0\ref\APP.dll
